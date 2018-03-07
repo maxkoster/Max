@@ -1,5 +1,5 @@
 # Citation 550 - Linear simulation
-
+#hi
 # xcg = 0.25 * c
 from numpy import*
 
